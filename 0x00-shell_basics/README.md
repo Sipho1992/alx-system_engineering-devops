@@ -6,3 +6,4 @@ Display current directory contents,long format, including hidden files
 Creating a directory in another directory
 Moving a file from one directory to another
 Delete a file from a directory
+Navigating from the current to the previous directory
