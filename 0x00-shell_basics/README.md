@@ -5,3 +5,4 @@ Displaying the contents of a directory in long format
 Display current directory contents,long format, including hidden files
 Creating a directory in another directory
 Moving a file from one directory to another
+Delete a file from a directory
