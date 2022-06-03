@@ -4,3 +4,4 @@
 Changing the owner of a file
 4-Creating an empty file
 5-Adding execute permission to an owner
+6-Adding permissions to owner and group and reading permission to users
