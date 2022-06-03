@@ -15,3 +15,4 @@
 14-Copy all files from current to parent directory, that are of a specific type
 15-Move all files with a capital letter to another directory
 Delete all files of a specific type in the current directory
+Creating a directory along with other intermediate directories
