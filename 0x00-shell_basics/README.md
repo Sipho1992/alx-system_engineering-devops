@@ -1,10 +1,10 @@
-Displaying the absolute path name of the current working directory
-Display the contents of the current directory
-Changing from the current directory to the home directory
-Displaying the contents of a directory in long format
-Display current directory contents,long format, including hidden files
-Creating a directory in another directory
-Moving a file from one directory to another
-Delete a file from a directory
-Navigating from the current to the previous directory
-Moving from the current directory to the preve=ious directory
+0-Displaying the absolute path name of the current directory
+1-Displaying the contents of the current directory
+2-Changing from the current to the home directory
+3-Displaying the contents of a directory in long format
+4-Displaying the contents of a directory in long format, including hidden files
+5-Creating a directory in another directory
+6-Moving a file from one directory to another
+7-Deleting a file from a directory in another directorym
+8-Deleting a file from a directory within another directory
+9-Navigating from the current to the previous directory
