@@ -16,3 +16,4 @@
 15-Move all files with a capital letter to another directory
 Delete all files of a specific type in the current directory
 Creating a directory along with other intermediate directories
+Display all files that are hidden and have special characters
