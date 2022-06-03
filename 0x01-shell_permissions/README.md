@@ -6,3 +6,4 @@ Changing the owner of a file
 5-Adding execute permission to an owner
 6-Adding permissions to owner and group and reading permission to users
 Adding execute permission to owner and group owner and other users
+8-Seting execute permission to a file, no owner, no group owner permission, but user permission allowed
