@@ -12,3 +12,4 @@ Adding execute permission to owner and group owner and other users
 11-Adding execute permissions to all subdirectories of the current directory for the owner, group owner and all users
 12-Create a directory with 751 permissions in the current working directory
 13-Changing the group owner of a file
+14-Change the owner and group owner for all the files and directories of the current directory
