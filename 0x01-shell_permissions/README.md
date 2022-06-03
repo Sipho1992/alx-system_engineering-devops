@@ -8,3 +8,4 @@ Changing the owner of a file
 Adding execute permission to owner and group owner and other users
 8-Seting execute permission to a file, no owner, no group owner permission, but user permission allowed
 9-Setting the mode of a file
+10-Setting the mode of a file to mirror that of another file
