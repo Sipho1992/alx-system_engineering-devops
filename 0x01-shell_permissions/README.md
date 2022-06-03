@@ -13,3 +13,4 @@ Adding execute permission to owner and group owner and other users
 12-Create a directory with 751 permissions in the current working directory
 13-Changing the group owner of a file
 14-Change the owner and group owner for all the files and directories of the current directory
+15-Change the owner and the group of a symbolic link
