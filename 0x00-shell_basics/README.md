@@ -7,3 +7,4 @@ Creating a directory in another directory
 Moving a file from one directory to another
 Delete a file from a directory
 Navigating from the current to the previous directory
+Moving from the current directory to the preve=ious directory
