@@ -10,3 +10,4 @@ Adding execute permission to owner and group owner and other users
 9-Setting the mode of a file
 10-Setting the mode of a file to mirror that of another file
 11-Adding execute permissions to all subdirectories of the current directory for the owner, group owner and all users
+12-Create a directory with 751 permissions in the current working directory
