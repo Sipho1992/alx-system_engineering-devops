@@ -17,3 +17,4 @@
 Delete all files of a specific type in the current directory
 Creating a directory along with other intermediate directories
 Display all files that are hidden and have special characters
+Create a magic file that can be used with a command to detect files containing specific content
