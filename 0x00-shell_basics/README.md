@@ -12,3 +12,6 @@
 11-Display all files in the current, parent and boot directories, including hidden files, all listed separately
 12-Display file type
 13-Create a symbolic link for a specific directory
+14-Copy all files from current to parent directory, that are of a specific type
+15-Move all files with a capital letter to another directory
+Delete all files of a specific type in the current directory
