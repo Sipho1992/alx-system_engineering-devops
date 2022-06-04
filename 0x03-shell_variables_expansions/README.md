@@ -6,3 +6,4 @@
 5-List all local and environmental variables and their functions
 6-Create a local variable
 7-Create a global variable
+8-Print result 0f 128 + the value stored in the TRUEKNOWLEDG
