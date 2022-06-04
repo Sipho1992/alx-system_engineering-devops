@@ -8,3 +8,4 @@
 7-Create a global variable
 8-Print result 0f 128 + the value stored in the TRUEKNOWLEDG
 9-Print reuslt of one environmental variable divided by the other
+10-Print the value of BREATH to the power of LOVE
