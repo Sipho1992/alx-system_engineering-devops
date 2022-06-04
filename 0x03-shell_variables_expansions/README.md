@@ -14,3 +14,4 @@
 13-Print a number with 2 decimal places
 100-Print a converted base 10 to a base 16
 101-Print text encoded and decoded using the rot13 encryption
+102-Print every other line in the input
