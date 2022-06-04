@@ -10,3 +10,4 @@
 9-Print reuslt of one environmental variable divided by the other
 10-Print the value of BREATH to the power of LOVE
 11-Printing results of a number converted from base 2 to base 10
+12-Print all possible combinations of 2 letters with an exception
