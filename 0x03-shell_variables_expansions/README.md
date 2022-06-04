@@ -13,3 +13,4 @@
 12-Print all possible combinations of 2 letters with an exception
 13-Print a number with 2 decimal places
 100-Print a converted base 10 to a base 16
+101-Print text encoded and decoded using the rot13 encryption
