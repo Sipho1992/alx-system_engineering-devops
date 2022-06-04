@@ -9,3 +9,4 @@
 8-Print result 0f 128 + the value stored in the TRUEKNOWLEDG
 9-Print reuslt of one environmental variable divided by the other
 10-Print the value of BREATH to the power of LOVE
+11-Printing results of a number converted from base 2 to base 10
