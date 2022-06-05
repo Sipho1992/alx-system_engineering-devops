@@ -4,3 +4,4 @@
 3-Displaying the contents of 2 files
 4-Displaying the last 10 lines of a file
 5-Displaying the first 10 lines of a file
+6-Printing the 3rd line of a file
