@@ -8,3 +8,4 @@
 8-Writing the results of a command into a file
 9-Duplicate the last lines of a file
 10-Find and delete all files of a specific type in the current directory
+11-Counting all directories and subdirectories in the current directory
