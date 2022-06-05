@@ -15,3 +15,4 @@
 100-Print a converted base 10 to a base 16
 101-Print text encoded and decoded using the rot13 encryption
 102-Print every other line in the input
+103-Printing the result of two variables together and adding them to a file
