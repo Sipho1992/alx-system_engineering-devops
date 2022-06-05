@@ -5,3 +5,5 @@
 4-Displaying the last 10 lines of a file
 5-Displaying the first 10 lines of a file
 6-Printing the 3rd line of a file
+8-Writing the results of a command into a file
+9-Duplicate the last lines of a file
